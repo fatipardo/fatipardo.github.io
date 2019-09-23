@@ -11,6 +11,6 @@ twitter_username: jekyllrb
 github_username:  fatipardo
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
