@@ -1,7 +1,5 @@
-name: Fatima
-markdown: Kramdown
-email: fpardo at stanford dot edu
 title: Fatima A. Pardo Avila 
+email: fpardo at stanford dot edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am using this website as a playground to explore my interests and improve my skillset.
 baseurl: "" # the subpath of your site, e.g. /blog
