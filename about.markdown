@@ -14,7 +14,7 @@ If you want to learn about my research interests check out this <a href="https:/
 I made this video as part of a workshop at Stanford on Science Communication. I am passionate about teaching and sharing science to the general public.
 
 
-<video src="./images/polii_video.m4v" alt="MD of RNA Polymerase II, surface representation"/>
+
 
 
 
